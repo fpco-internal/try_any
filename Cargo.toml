@@ -1,0 +1,10 @@
+[package]
+name = "try_any"
+version = "2023.6.24"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "*"
+futures = "*"
